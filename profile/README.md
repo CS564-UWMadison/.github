@@ -9,11 +9,5 @@ The first half of the course will focus on the users' perspective of DBMS. We wi
 * Python
 * C++ (some online learning resources: CS368, [tutorial 1](https://cplusplus.com/doc/tutorial/), [tutorial 2](https://www.learncpp.com/))
  
-
-## Grading
-* Programming Projects & Problem Sets: 45% (each 7.5%)
-* Midterm: 20%
-* Final: 35%
- 
 ## Textbooks
 Database management systems (3rd edition), by Raghu Ramakrishnan and Johannes Gehrke (also called the “cow book”).
